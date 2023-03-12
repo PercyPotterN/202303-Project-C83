@@ -1,0 +1,14 @@
+#myCanvas {
+    border: 5px solid black;
+    background-color: aliceblue;
+    margin-left: 150px;
+    margin-top: 75px;
+
+}
+
+body {
+    background-image: url("https://i.postimg.cc/63cjmfvH/bg1.jpg");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
